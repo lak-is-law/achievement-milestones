@@ -5,3 +5,4 @@
 - Milestone 5: Pair Extraordinaire Gold progress (2026-10-30 00:08:33)
 - Milestone 6: Pair Extraordinaire Gold progress (2026-10-30 00:08:47)
 - Milestone 7: Pair Extraordinaire Gold progress (2026-10-30 00:09:03)
+- Milestone 8: Pair Extraordinaire Gold progress (2026-10-30 00:09:18)
