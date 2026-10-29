@@ -22,3 +22,4 @@
 - Milestone 22: Pair Extraordinaire Gold progress (2026-10-30 00:12:59)
 - Milestone 23: Pair Extraordinaire Gold progress (2026-10-30 00:13:14)
 - Milestone 24: Pair Extraordinaire Gold progress (2026-10-30 00:13:31)
+- Milestone 25: Pair Extraordinaire Gold progress (2026-10-30 00:13:47)
